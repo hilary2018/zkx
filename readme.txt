@@ -3,5 +3,5 @@ Git is free software.
 HEAD add
 Remove ADD
 Creating a new branch is quick
-Branch is en asy.
+New branch is an easy.
 
