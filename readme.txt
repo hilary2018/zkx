@@ -3,3 +3,4 @@ Git is free software.
 HEAD add
 Remove ADD
 Creating a new branch is quick.
+new parameter testing on merging
