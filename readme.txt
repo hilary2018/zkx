@@ -5,3 +5,4 @@ Remove ADD
 Creating a new branch is quick
 New branch is an easy.
 branch & master is quick
+Try again merging
