@@ -4,4 +4,4 @@ HEAD add
 Remove ADD
 Creating a new branch is quick
 New branch is easy
-
+branch and master is quick
