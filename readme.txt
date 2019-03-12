@@ -5,3 +5,4 @@ Remove ADD
 Creating a new branch is quick.
 Try again
 git dev remote first
+git dev remote first checking
