@@ -7,3 +7,4 @@ New branch is an easy.
 branch & master is quick
 Try again merging
 Fixing issue 001
+git remote master checking
