@@ -4,4 +4,4 @@ HEAD add
 Remove ADD
 Creating a new branch is quick.
 Try again
-git dev remote
+git dev remote first
