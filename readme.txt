@@ -8,4 +8,4 @@ git dev remote second server
 git dev remote first checking
 Fix issue on the Dev2 branch
 Creating a new branch is quick and simple.
-Add a merge dev2 to check fast forward
+Add a merge dev2 to check fast forward --no-ff
