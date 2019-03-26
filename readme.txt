@@ -10,3 +10,4 @@ Fix issue on the Dev2 branch
 Creating a new branch is quick and simple.
 Add a merge dev2 to check fast forward --no-ff
 Fixing issue on the issue01
+Working on the dev2
