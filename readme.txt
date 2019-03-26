@@ -7,4 +7,4 @@ git dev remote first
 git dev remote second server
 git dev remote first checking
 Fix issue on the Dev2 branch
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
